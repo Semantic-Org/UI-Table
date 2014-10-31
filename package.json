@@ -1,0 +1,20 @@
+{
+  "name": "UI-Table",
+  "version": "1.0.0",
+  "title": "Semantic UI - Table",
+  "description": "Single component release of table",
+  "homepage": "http://www.semantic-ui.com",
+  "author": "Jack Lukic <jack@semantic-ui.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Semantic-Org/UI-Table.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+  },
+  "dependencies": {
+    "jquery": "x.x.x"
+  },
+  "devDependencies": {}
+}
