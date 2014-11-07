@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-table",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> fd6b0f5ecd0f8478ac6a992a53589e9dd8230014
   "title": "Semantic UI - Table",
   "description": "Single component release of table",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> fd6b0f5ecd0f8478ac6a992a53589e9dd8230014
   "devDependencies": {}
 }
