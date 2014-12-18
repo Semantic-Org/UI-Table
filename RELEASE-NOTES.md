@@ -1,3 +1,18 @@
+### Version 1.3.0 - December 17, 2014
+
+- **Steps** - Steps are now responsive for mobile by default, and have optional responsive styles for tablet
+- **Table** - Table has now variations to remove responsive stylings, specify responsiveness for tablet
+- **Table** - Table now has a ``structured table`` type, which removes some formatting considerations to support complex table layouts with ``colspan`` and ``rowspan``
+- **Table** - Fix responsive styles when applied to ``definition table``.
+
+### Version 1.2.0 - December 08, 2014
+
+- **Dropdown** - Fixes bug with dropdown converted from ``select`` that use ``<option`` values with capital letters not being selectable
+
+### Version 1.0.1 - November 28, 2014
+
+- **Table** - Fixes table cell transition animating all properties
+
 ### Version 1.0.0 - November 24, 2014
 
 - **Table** - Tables are no longer striped by default, instead you must specify the 'striped' variation
