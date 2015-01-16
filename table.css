@@ -1,5 +1,5 @@
  /*
- * # Semantic UI
+ * # Semantic UI - 1.7.2
  * https://github.com/Semantic-Org/Semantic-UI
  * http://www.semantic-ui.com/
  *
@@ -197,6 +197,20 @@
   .ui.definition.table:not(.unstackable) tr td:nth-child(n+2) {
     padding-top: 1em;
   }
+}
+
+
+/*******************************
+            Coupling
+*******************************/
+
+
+/* UI Image */
+.ui.table th .image,
+.ui.table th .image img,
+.ui.table td .image,
+.ui.table td .image img {
+  max-width: none;
 }
 
 
