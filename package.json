@@ -1,6 +1,10 @@
 {
   "name": "semantic-ui-table",
+<<<<<<< HEAD
   "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> d203a7ce2af26f1bee1fe9610402b4098552885a
   "title": "Semantic UI - Table",
   "description": "Single component release of table",
   "homepage": "http://www.semantic-ui.com",
@@ -8,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Semantic-Org/UI-Table.git"
+    "url": "https://github.com/Semantic-Org/UI-Table.git"
   },
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
