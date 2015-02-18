@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 1220ab0085440177d2cc36e10ac9da3b030b3bb6
 ### UI Changes
 
 - **Input** - Input with dropdowns is now much easier, see docs. `action input` and `labeled input` now use `display: flex`. `ui action input` now supports `<button>` tag usage (!) which support `flex` but not `table-cell`
@@ -6,6 +10,11 @@
 
 - **Dropdown** - Keyboard navigation will now allow opening of sub menus with right/left arrow. Enter will open sub-menus on an unselectable category (`allowCategorySelection: false`) as well.
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> d203a7ce2af26f1bee1fe9610402b4098552885a
+>>>>>>> 1220ab0085440177d2cc36e10ac9da3b030b3bb6
 ### Version 1.7.0 - January 14, 2015
 
 - **Steps** - Steps now use ``table-cell`` to allow steps to be equal height by default, even with different content height.
