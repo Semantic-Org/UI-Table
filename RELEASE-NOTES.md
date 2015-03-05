@@ -1,3 +1,8 @@
+### Version 1.11.0 - March 3, 2015
+
+- **Icon** - added `@src` variable to make it adjustable with themes that dont support all types like `woff2`
+- **Table** - Fixes table on `mobile` sizes can surpass parent container width
+
 ### UI Changes
 
 - **Input** - Input with dropdowns is now much easier, see docs. `action input` and `labeled input` now use `display: flex`. `ui action input` now supports `<button>` tag usage (!) which support `flex` but not `table-cell`
