@@ -1,3 +1,20 @@
+### Version 2.0.0 - June 30, 2015
+
+- **Modal** - If you are using a modal with image content, you will need to use `image content` on the parent element. This is because `flex` rules require parent styling that the previous `table-row` rules did not.
+- **Grid** - `celled grid` now removes internal cells on mobile and tablet when used with `doubling` grid responsive variation.
+- **Grid** - `celled` and `internally celled` grid now use flexbox instead of `display: table;`
+- **Table** - Adds `selectable table` variation, which shows hover effect on row when hovering
+- **Table** - Added `vertical alignment` variations to `ui table`
+- **Table** - Added `single line` table variation which prevents text from wrapping
+- **List** - Bullets and numbers are no longer selectable in `bulleted list` and `ordered list`
+- **Table** - Fixes `sorted` column are not correctly centered with `center aligned` due to margin on sort icon
+- **Table** - Fixes `ascending` and `descending` icons were reversed in table
+- **Table** - `very basic table` now works together with `padded table`
+- **Table** - Fix inheritance of text alignment and vertical alignment
+- **Header/Table/Divider** - These components now pull border color defaults from `site.variables` instead of using their own values
+- **Table** - Table header colors and padding defaults have been slightly adjusted
+- **Table** - Horizontal cell padding has been slightly reduced, and cell borders are slightly lighter.
+
 ### Version 1.11.0 - March 3, 2015
 
 - **Icon** - added `@src` variable to make it adjustable with themes that dont support all types like `woff2`
@@ -58,7 +75,7 @@
 
 ### Version 0.7.0 - Oct 22, 2013
 
-- **Table** - Added aweosome new responsive style to ui tables
+- **Table** - Added awesome new responsive style to ui tables
 - Adds sortable tables to docs
 - **List** - Celled tables now have celled table headers
 - **Table** - Table headers are now darker to increase contrast with rainbow striped rows
