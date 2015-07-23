@@ -1,3 +1,7 @@
+### Version 2.0.7 - July 22, 2015
+
+- **Popup** - Fixed issue where popup would not open on tablets with both touchscreen and mouse on mouseenter. [#2715](https://github.com/Semantic-Org/Semantic-UI/issues/2715)
+
 ### Version 2.0.4 - July 17, 2015
 
 - **Menu/Segment/Table** - Consolidated `attached` logic for all components using attached. [#2599](https://github.com/Semantic-Org/Semantic-UI/issues/2599)
