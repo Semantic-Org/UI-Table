@@ -1,3 +1,12 @@
+#### Features
+
+- **Table** - New `fixed` table variation added for use with `table-layout: fixed;`. This also supports "..." ellipsis when used with `single line` content
+
+#### Bugs
+
+- **Build Tools** - Fixes issue where component glob `{tab, table}` caused table to be included twice in concatenated source **
+- **Table/Label** - `ribbon labels` will now automatically position themselves when used inside a table [#1930](https://github.com/Semantic-Org/Semantic-UI/issues/1930)
+
 ### Version 2.0.7 - July 23, 2015
 
 - **Popup** - Fixed issue where popup would not open on tablets with both touchscreen and mouse on mouseenter. [#2715](https://github.com/Semantic-Org/Semantic-UI/issues/2715)
