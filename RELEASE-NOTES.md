@@ -1,3 +1,7 @@
+### Version 2.1.4 - Sep 13, 2015
+
+- **Table** - Fixed issue where `(x) column segment table` was inheriting accidentally inheriting some grid styles
+
 #### Features
 
 - **Table** - New `fixed` table variation added for use with `table-layout: fixed;`. This also supports "..." ellipsis when used with `single line` content
