@@ -1,3 +1,7 @@
+### Version 2.1.5 - Nov 1, 2015
+
+- **Table** - Added `selectable` on table cell, allowing for full table-cell links
+
 ### Version 2.1.4 - Sep 13, 2015
 
 - **Table** - Fixed issue where `(x) column segment table` was inheriting accidentally inheriting some grid styles
