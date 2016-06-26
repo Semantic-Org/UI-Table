@@ -1,3 +1,11 @@
+### Version 2.2.0 - June 26, 2016
+
+- **NPM** - NPM dependencies have all been updated to latest stable releases
+- **Table** - `definition table` now includes additional class names for forcing, or ignoring definition cell styles
+- **Table** - `definition table` now supports `definition` variation to specify definition styles on an element that is not `:first-child`
+- **Table** - `definition table` now supports `ignored` variation to force a `first-child` to ignore its default definition stylings
+- **Table** - `striped selectable` table would not correctly show hover color on striped rows
+
 ### Version 2.1.5 - Nov 1, 2015
 
 - **Table** - Added `selectable` on table cell, allowing for full table-cell links
