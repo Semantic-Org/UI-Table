@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-table',
   summary : 'Semantic UI - Table: Single component release',
-  version : '2.2.6',
+  version : '2.2.7',
   git     : 'git://github.com/Semantic-Org/UI-Table.git',
 });
 
