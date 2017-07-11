@@ -1,3 +1,7 @@
+### Version 2.2.11 - July 11, 2017
+
+- **Table**- Fix inverted table header color not applying properly to `sortable table` **Thanks @Banandrew** [#5303](https://github.com/Semantic-Org/Semantic-UI/issues/5303)
+
 ### Version 2.2.0 - June 26, 2016
 
 - **NPM** - NPM dependencies have all been updated to latest stable releases
