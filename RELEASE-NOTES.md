@@ -1,3 +1,7 @@
+### Version 2.3.0 - Feb 19, 2018
+
+- **Table** - Fixes tr not having correct border on first row when using multiple `tbody` **Thanks @Mlukman** [#4458](https://github.com/Semantic-Org/Semantic-UI/issues/4458)
+
 ### Version 2.2.11 - July 11, 2017
 
 - **Table**- Fix inverted table header color not applying properly to `sortable table` **Thanks @Banandrew** [#5303](https://github.com/Semantic-Org/Semantic-UI/issues/5303)
