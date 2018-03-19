@@ -1,4 +1,4 @@
-### Version 2.3.0 - Feb 19, 2018
+### Version 2.3.0 - Feb 20, 2018
 
 - **Table** - Fixes tr not having correct border on first row when using multiple `tbody` **Thanks @Mlukman** [#4458](https://github.com/Semantic-Org/Semantic-UI/issues/4458)
 
